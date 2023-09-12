@@ -1,0 +1,21 @@
+baseURL = "https://qblint.com/"
+languageCode = "en-us"
+title = "qblint"
+theme = "hugo-book"
+enableGitInfo = true
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.highlight]
+  # For styles, see https://xyproto.github.io/splash/docs/longer/all.html
+  style = "solarized-dark"
+
+[params]
+  BookTheme = "auto"
+  BookToC = false
+  BookSection = "/"
+  BookRepo = "https://github.com/cvoight/qblint-static-app"
+  BookCommitPath = "commit"
+  BookDateFormat = "January 2, 2006"
+  BookSearch = false
