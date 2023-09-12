@@ -3,6 +3,8 @@ title: "Privacy Policy"
 date: 2023-09-09T01:02:36-04:00
 ---
 
+# Privacy Policy
+
 ## Information Collected
 
 It is possible that your Google Workspace™ email and profile are automatically logged by the Google Cloud Platform™ service. We do not collect or store any other data, including usage data.

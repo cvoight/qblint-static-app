@@ -3,6 +3,8 @@ title: "Terms of Service"
 date: 2023-09-09T00:52:52-04:00
 ---
 
+# Terms of Service
+
 Copyright (C) 2023 by Cody Voight <voightac@gmail.com>
 
 Permission to use and/or distribute this software for any purpose with or without fee is hereby granted.
