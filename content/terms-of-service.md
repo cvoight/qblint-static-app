@@ -1,6 +1,5 @@
 ---
 title: "Terms of Service"
-date: 2023-09-09T00:52:52-04:00
 ---
 
 # Terms of Service

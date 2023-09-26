@@ -1,6 +1,5 @@
 ---
 title: "Privacy Policy"
-date: 2023-09-09T01:02:36-04:00
 ---
 
 # Privacy Policy
