@@ -10,7 +10,7 @@ qblint streamlines quality assurance for quizbowl packets by providing automated
 
 Question security is paramount and your question content is never seen or shared by anyone but you.
 
-## Style and Grammer Checker
+## Style and Grammar Checker
 
 Style and grammar checks use a cross-platform desktop application, qblint, which embeds the open-source LanguageTool Java API. A set of custom rules based on the Quizbowl Manual of Style is included with qblint and will be expanded over time. qblint checks an entire Google Drive™ folder of packets locally and uploads the results to the same folder, so question content is kept securely in your tournament production folder and never shared with an outside party or server.
 
