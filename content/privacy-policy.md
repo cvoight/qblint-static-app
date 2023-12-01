@@ -4,6 +4,10 @@ title: "Privacy Policy"
 
 # Privacy Policy
 
+## Google API Services User Data Policy
+
+The use of information received from Google APIs by qblint will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements. The information received from Google APIs is never communicated to any application, server, or directory outside of the Google Drive™ folder you specify.
+
 ## Personal Data Access, Use, and Storage
 
 In order to use the qblint add-on, the add-on must access and process data in your Google Drive™. The qblint add-on only interacts with folders and documents that you choose. Your personal data is processed under your Google™ user credentials and is never transmitted to any outside server or entity. The security and sharing settings for the personal data qblint interacts with are never changed.
