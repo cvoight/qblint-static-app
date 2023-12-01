@@ -6,7 +6,7 @@ title: "Privacy Policy"
 
 ## Google API Services User Data Policy
 
-The use of information received from Google APIs by qblint will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements. The information received from Google APIs is never communicated to any application, server, or directory outside of the Google Drive™ folder you specify.
+The use of information received from Google™ APIs by qblint will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements. The information received from Google™ APIs is never communicated to any application, server, or directory outside of the Google Drive™ folder you specify.
 
 ## Personal Data Access, Use, and Storage
 
